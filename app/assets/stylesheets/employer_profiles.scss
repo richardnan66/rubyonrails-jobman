@@ -1,0 +1,13 @@
+// Place all the styles related to the EmployerProfiles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.employer {
+  label {
+    width: 7rem;
+    margin-right: 8px
+  }
+
+  .actions, .button_to {
+    margin-top: 5px;
+  }
+}

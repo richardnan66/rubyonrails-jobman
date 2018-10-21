@@ -1,0 +1,44 @@
+// Place all the styles related to the HunterProfiles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.hunter-details {}
+
+.hunter-offers {
+    height: 50px;
+    width: 50px;
+}
+
+.listing-detail {}
+
+.hunter {
+  .salary {
+    text-align: center;
+  }
+  .minmax {
+    margin: 10px 0;
+  }
+  .hours {
+    label {
+      width: 3.5rem;
+    }
+  }
+  label {
+    width: 4rem;
+    margin-right: 8px
+  }
+  .skills {
+    h2 {
+      text-align: left;
+      margin-top: 5px;
+      margin-bottom: 2px;
+      color: #444;
+    }
+    select {
+      margin-left: 4.2rem;
+    }
+  }
+  .actions {
+    margin-top: 15px;
+    margin-bottom: 5px;
+  }
+}
